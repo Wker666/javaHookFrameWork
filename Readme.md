@@ -8,3 +8,5 @@
 
 使用视频：
 https://www.bilibili.com/video/BV1zG4y1i7jQ?spm_id_from=333.999.0.0
+
+版本修复，修复反编译时package错误问题
